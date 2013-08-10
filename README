@@ -1,1 +1,6 @@
 viral
+
+A time-lapse heatmap of the amount of tweets based on the keyword typed into a search bar. There is a scroll bar to view by time.
+
+Server-Side: Django
+Client-Side: Javascript, jQuery, CSS3
